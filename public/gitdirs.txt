@@ -52,7 +52,6 @@ projects/websites/roadmap.hexstreamsoft.com/.git
 projects/websites/status-quo.hexstreamsoft.com/.git
 projects/websites/tarballs.hexstreamsoft.com/.git
 projects/websites/stream-lisp.hexstreamsoft.com/.git
-projects/websites/not-yet-scavenged/worknotes.hexstream.xyz/.git
 projects/articles/www.hexstreamsoft.com/notes-tips-standard-common-lisp-symbols/.git
 projects/articles/www.hexstreamsoft.com/getting-started-with-the-clhs/.git
 projects/articles/www.hexstreamsoft.com/common-lisp-format-reference/.git

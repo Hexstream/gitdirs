@@ -14,14 +14,14 @@ projects/lisp/ready-to-use/anaphoric-variants/.git
 projects/lisp/ready-to-use/multiple-value-variants/.git
 projects/lisp/ready-to-use/parse-number-range/.git
 projects/lisp/ready-to-use/bubble-operator-upwards/.git
+projects/lisp/ready-to-use/cesdi/.git
+projects/lisp/ready-to-use/enhanced-find-class/.git
 projects/lisp/ready-to-use/definitions-systems/.git
 projects/lisp/ready-to-use/incognito-keywords/.git
 projects/lisp/ready-to-use/symbol-namespaces/.git
 projects/lisp/ready-to-use/clhs/.git
 projects/lisp/ready-to-use/enhanced-boolean/.git
-projects/lisp/ready-to-use/enhanced-find-class/.git
 projects/lisp/ready-to-use/fakenil/.git
-projects/lisp/ready-to-use/cesdi/.git
 projects/lisp/ready-to-use/place-utils/.git
 projects/lisp/ready-to-use/hexstream-project-template/.git
 projects/lisp/not-yet-ready/first-class-lambda-lists/.git

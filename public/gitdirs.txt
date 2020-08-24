@@ -16,6 +16,7 @@ projects/lisp/ready-to-use/parse-number-range/.git
 projects/lisp/ready-to-use/bubble-operator-upwards/.git
 projects/lisp/ready-to-use/cesdi/.git
 projects/lisp/ready-to-use/enhanced-find-class/.git
+projects/lisp/ready-to-use/class-options/.git
 projects/lisp/ready-to-use/definitions-systems/.git
 projects/lisp/ready-to-use/incognito-keywords/.git
 projects/lisp/ready-to-use/symbol-namespaces/.git

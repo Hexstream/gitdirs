@@ -4,6 +4,7 @@ projects/lisp/ready-to-use/trivial-jumptables/.git
 projects/lisp/ready-to-use/with-output-to-stream/.git
 projects/lisp/ready-to-use/enhanced-eval-when/.git
 projects/lisp/ready-to-use/enhanced-multiple-value-bind/.git
+projects/lisp/ready-to-use/evaled-when/.git
 projects/lisp/ready-to-use/macro-level/.git
 projects/lisp/ready-to-use/with-shadowed-bindings/.git
 projects/lisp/ready-to-use/first-time-value/.git

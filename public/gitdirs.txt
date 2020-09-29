@@ -51,6 +51,9 @@ projects/websites/abc.hexstream.xyz/.git
 projects/websites/status.abc.hexstream.xyz/.git
 projects/websites/global.hexstream.dev/.git
 projects/websites/www.hexstreamsoft.com/.git
+projects/websites/www.hexstreamsoft.com/embed/articles/notes-tips-standard-common-lisp-symbols/.git
+projects/websites/www.hexstreamsoft.com/embed/articles/getting-started-with-the-clhs/.git
+projects/websites/www.hexstreamsoft.com/embed/articles/common-lisp-format-reference/.git
 projects/websites/clos-mop.hexstreamsoft.com/.git
 projects/websites/common-lispers.hexstreamsoft.com/.git
 projects/websites/chat.hexstreamsoft.com/.git
@@ -58,9 +61,6 @@ projects/websites/roadmap.hexstreamsoft.com/.git
 projects/websites/status-quo.hexstreamsoft.com/.git
 projects/websites/tarballs.hexstreamsoft.com/.git
 projects/websites/stream-lisp.hexstreamsoft.com/.git
-projects/articles/www.hexstreamsoft.com/notes-tips-standard-common-lisp-symbols/.git
-projects/articles/www.hexstreamsoft.com/getting-started-with-the-clhs/.git
-projects/articles/www.hexstreamsoft.com/common-lisp-format-reference/.git
-projects/articles/stream-lisp.hexstreamsoft.com/stream-lisp-principles-and-intents/.git
-projects/articles/stream-lisp.hexstreamsoft.com/stream-lisp-common-lisp-symbols-comparison/.git
+projects/websites/stream-lisp.hexstreamsoft.com/embed/articles/stream-lisp-principles-and-intents/.git
+projects/websites/stream-lisp.hexstreamsoft.com/embed/articles/stream-lisp-common-lisp-symbols-comparison/.git
 projects/browser-extensions/chrome/clhs/.git

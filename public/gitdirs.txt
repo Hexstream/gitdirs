@@ -61,6 +61,6 @@ projects/websites/roadmap.hexstreamsoft.com/.git
 projects/websites/status-quo.hexstreamsoft.com/.git
 projects/websites/tarballs.hexstreamsoft.com/.git
 projects/websites/stream-lisp.hexstreamsoft.com/.git
-projects/websites/stream-lisp.hexstreamsoft.com/embed/articles/stream-lisp-principles-and-intents/.git
-projects/websites/stream-lisp.hexstreamsoft.com/embed/articles/stream-lisp-common-lisp-symbols-comparison/.git
+projects/websites/stream-lisp.hexstreamsoft.com/embed/articles/principles-and-intents/.git
+projects/websites/stream-lisp.hexstreamsoft.com/embed/articles/common-lisp-symbols-comparison/.git
 projects/browser-extensions/chrome/clhs/.git

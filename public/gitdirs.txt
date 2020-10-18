@@ -25,6 +25,7 @@ projects/lisp/ready-to-use/incognito-keywords/.git
 projects/lisp/ready-to-use/symbol-namespaces/.git
 projects/lisp/ready-to-use/clhs/.git
 projects/lisp/ready-to-use/enhanced-boolean/.git
+projects/lisp/ready-to-use/enhanced-typep/.git
 projects/lisp/ready-to-use/fakenil/.git
 projects/lisp/ready-to-use/simple-guess/.git
 projects/lisp/ready-to-use/place-utils/.git

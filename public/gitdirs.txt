@@ -47,7 +47,6 @@ projects/lisp/not-yet-scavenged/easy-backquote-nesting/.git
 projects/lisp/not-yet-scavenged/map-symbol-definitions/.git
 projects/lisp/not-yet-scavenged/return-values-hints/.git
 projects/lisp/not-yet-scavenged/loopless/.git
-projects/lisp/.github/.git
 projects/websites/abc.hexstream.xyz/.git
 projects/websites/status.abc.hexstream.xyz/.git
 projects/websites/global.hexstream.dev/.git
@@ -67,3 +66,4 @@ projects/websites/www.stream-lisp.org/.git
 projects/websites/www.stream-lisp.org/embed/articles/principles-and-intents/.git
 projects/websites/www.stream-lisp.org/embed/articles/common-lisp-symbols-comparison/.git
 projects/browser-extensions/chrome/clhs/.git
+projects/github/.github/.git

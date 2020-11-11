@@ -66,4 +66,5 @@ projects/websites/www.stream-lisp.org/.git
 projects/websites/www.stream-lisp.org/embed/articles/principles-and-intents/.git
 projects/websites/www.stream-lisp.org/embed/articles/common-lisp-symbols-comparison/.git
 projects/browser-extensions/chrome/clhs/.git
+projects/github/Hexstream/.git
 projects/github/.github/.git

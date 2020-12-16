@@ -58,6 +58,7 @@ projects/websites/notes-and-tips.hexstreamsoft.com/.git
 projects/websites/common-lispers.hexstreamsoft.com/.git
 projects/websites/chat.hexstreamsoft.com/.git
 projects/websites/roadmap.hexstreamsoft.com/.git
+projects/websites/sponsors.hexstreamsoft.com/.git
 projects/websites/tarballs.hexstreamsoft.com/.git
 projects/websites/www.hexstream.expert/.git
 projects/websites/cv.hexstream.expert/.git

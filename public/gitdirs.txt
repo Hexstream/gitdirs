@@ -48,6 +48,7 @@ projects/lisp/not-yet-scavenged/map-symbol-definitions/.git
 projects/lisp/not-yet-scavenged/return-values-hints/.git
 projects/lisp/not-yet-scavenged/loopless/.git
 projects/websites/abc.hexstream.xyz/.git
+projects/websites/whoami.hexstream.xyz/.git
 projects/websites/status.abc.hexstream.xyz/.git
 projects/websites/global.hexstream.dev/.git
 projects/websites/www.hexstreamsoft.com/.git

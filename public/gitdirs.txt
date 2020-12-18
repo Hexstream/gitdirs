@@ -70,3 +70,5 @@ projects/websites/www.stream-lisp.org/embed/articles/common-lisp-symbols-compari
 projects/browser-extensions/chrome/clhs/.git
 projects/github/Hexstream/.git
 projects/github/.github/.git
+projects/forks/dpans/.git
+projects/forks/qmk_firmware/.git

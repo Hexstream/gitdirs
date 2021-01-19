@@ -29,6 +29,7 @@ projects/lisp/ready-to-use/enhanced-typep/.git
 projects/lisp/ready-to-use/fakenil/.git
 projects/lisp/ready-to-use/simple-guess/.git
 projects/lisp/ready-to-use/place-utils/.git
+projects/lisp/ready-to-use/inheriting-readers/.git
 projects/lisp/ready-to-use/hexstream-project-template/.git
 projects/lisp/not-yet-ready/first-class-lambda-lists/.git
 projects/lisp/not-yet-ready/explicit-bind/.git

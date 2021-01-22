@@ -36,7 +36,6 @@ projects/lisp/not-yet-ready/first-class-lambda-lists/.git
 projects/lisp/not-yet-ready/explicit-bind/.git
 projects/lisp/not-yet-ready/lispy-format/.git
 projects/lisp/not-yet-ready/xcall/.git
-projects/lisp/not-yet-ready/inherited-values/.git
 projects/lisp/not-yet-ready/complex-slots/.git
 projects/lisp/not-yet-ready/ensure-method-combination/.git
 projects/lisp/not-yet-ready/evaluated-flet/.git

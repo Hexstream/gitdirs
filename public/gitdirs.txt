@@ -32,6 +32,7 @@ projects/lisp/ready-to-use/place-utils/.git
 projects/lisp/ready-to-use/inheriting-readers/.git
 projects/lisp/ready-to-use/shared-preferences/.git
 projects/lisp/ready-to-use/enhanced-defclass/.git
+projects/lisp/ready-to-use/canonicalized-initargs/.git
 projects/lisp/ready-to-use/hexstream-project-template/.git
 projects/lisp/not-yet-ready/first-class-lambda-lists/.git
 projects/lisp/not-yet-ready/explicit-bind/.git

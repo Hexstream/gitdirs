@@ -47,7 +47,6 @@ projects/lisp/not-yet-ready/stream-lisp/.git
 projects/lisp/not-yet-scavenged/hextml/.git
 projects/lisp/not-yet-scavenged/hecss/.git
 projects/lisp/not-yet-scavenged/easy-backquote-nesting/.git
-projects/lisp/not-yet-scavenged/map-symbol-definitions/.git
 projects/lisp/not-yet-scavenged/return-values-hints/.git
 projects/lisp/not-yet-scavenged/loopless/.git
 projects/websites/abc.hexstream.xyz/.git

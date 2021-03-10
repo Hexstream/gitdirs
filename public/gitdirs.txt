@@ -43,12 +43,12 @@ projects/lisp/not-yet-ready/ensure-method-combination/.git
 projects/lisp/not-yet-ready/evaluated-flet/.git
 projects/lisp/not-yet-ready/hexstream-html-doc-mode/.git
 projects/lisp/not-yet-ready/bigname/.git
-projects/lisp/not-yet-ready/stream-lisp/.git
 projects/lisp/not-yet-scavenged/hextml/.git
 projects/lisp/not-yet-scavenged/hecss/.git
 projects/lisp/not-yet-scavenged/easy-backquote-nesting/.git
 projects/lisp/not-yet-scavenged/return-values-hints/.git
 projects/lisp/not-yet-scavenged/loopless/.git
+projects/lisp/not-yet-scavenged/common-lisp-symbols-comparison/.git
 projects/websites/abc.hexstream.xyz/.git
 projects/websites/whoami.hexstream.xyz/.git
 projects/websites/status.abc.hexstream.xyz/.git
@@ -66,9 +66,6 @@ projects/websites/tarballs.hexstreamsoft.com/.git
 projects/websites/www.hexstream.expert/.git
 projects/websites/cv.hexstream.expert/.git
 projects/websites/status-quo.hexstream.expert/.git
-projects/websites/www.stream-lisp.org/.git
-projects/websites/www.stream-lisp.org/embed/articles/principles-and-intents/.git
-projects/websites/www.stream-lisp.org/embed/articles/common-lisp-symbols-comparison/.git
 projects/browser-extensions/chrome/clhs/.git
 projects/github/Hexstream/.git
 projects/github/.github/.git

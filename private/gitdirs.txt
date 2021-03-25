@@ -10,7 +10,6 @@ projects/websites/workshop.hexstream.xyz/.git
 projects/websites/dumping-grounds.hexstream.xyz/.git
 projects/websites/i18n.discord.hexstream.xyz/.git
 projects/websites/blog.hexstream.xyz/.git
-projects/websites/gameranger.hexstream.xyz/.git
 projects/websites/ert.hexstream.xyz/.git
 projects/websites/angele.hexstream.xyz/.git
 projects/graphics/misc/.git

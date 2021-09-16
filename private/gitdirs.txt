@@ -9,6 +9,7 @@ projects/websites/www.hexstream.xyz/.git
 projects/websites/workshop.hexstream.xyz/.git
 projects/websites/blog.hexstream.xyz/.git
 projects/websites/dumping-grounds.hexstream.xyz/.git
+projects/websites/hilarity.hexstream.xyz/.git
 projects/websites/angele.hexstream.xyz/.git
 projects/graphics/misc/.git
 misc/security/.git

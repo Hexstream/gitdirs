@@ -14,5 +14,3 @@ projects/websites/angele.hexstream.xyz/.git
 projects/graphics/misc/.git
 misc/security/.git
 misc/archive/.git
-misc/music/.git
-misc/screenshots/.git

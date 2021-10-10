@@ -69,5 +69,6 @@ projects/websites/status-quo.hexstream.expert/.git
 projects/browser-extensions/chrome/clhs/.git
 projects/forks/dpans/.git
 projects/forks/qmk_firmware/.git
+misc/gitdirs/.git
 misc/github/Hexstream/.git
 misc/github/.github/.git

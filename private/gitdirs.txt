@@ -12,5 +12,6 @@ projects/websites/dumping-grounds.hexstream.xyz/.git
 projects/websites/hilarity.hexstream.xyz/.git
 projects/websites/angele.hexstream.xyz/.git
 projects/graphics/misc/.git
+misc/gitdirs-secret/.git
 misc/security/.git
 misc/archive/.git

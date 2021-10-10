@@ -67,7 +67,7 @@ projects/websites/www.hexstream.expert/.git
 projects/websites/cv.hexstream.expert/.git
 projects/websites/status-quo.hexstream.expert/.git
 projects/browser-extensions/chrome/clhs/.git
-projects/github/Hexstream/.git
-projects/github/.github/.git
 projects/forks/dpans/.git
 projects/forks/qmk_firmware/.git
+misc/github/Hexstream/.git
+misc/github/.github/.git

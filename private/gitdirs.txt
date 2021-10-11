@@ -5,13 +5,13 @@ big-data/projects/websites/media.ponies.hexstream.net/.git
 projects/websites/clop.ponies.hexstream.net/.git
 big-data/projects/websites/media.clop.ponies.hexstream.net/.git
 big-data/projects/websites/pokehidden.archive.hexstream.net/.git
+projects/websites/modern.pokehidden.archive.hexstream.net/.git
 projects/websites/www.hexstream.xyz/.git
 projects/websites/workshop.hexstream.xyz/.git
 projects/websites/blog.hexstream.xyz/.git
 projects/websites/dumping-grounds.hexstream.xyz/.git
 projects/websites/hilarity.hexstream.xyz/.git
 projects/websites/angele.hexstream.xyz/.git
-projects/graphics/misc/.git
 misc/gitdirs-secret/.git
 misc/security/.git
 misc/archive/.git

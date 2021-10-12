@@ -1,10 +1,10 @@
 projects/websites/non-free.hexstream.dev/.git
 projects/websites/www.hexstream.net/.git
 projects/websites/ponies.hexstream.net/.git
-big-data/projects/websites/media.ponies.hexstream.net/.git
+projects/websites/ponies.hexstream.net/embed/media/.git
 projects/websites/clop.ponies.hexstream.net/.git
-big-data/projects/websites/media.clop.ponies.hexstream.net/.git
-big-data/projects/websites/pokehidden.archive.hexstream.net/.git
+projects/websites/clop.ponies.hexstream.net/embed/media/.git
+projects/websites/pokehidden.archive.hexstream.net/.git
 projects/websites/modern.pokehidden.archive.hexstream.net/.git
 projects/websites/www.hexstream.xyz/.git
 projects/websites/workshop.hexstream.xyz/.git

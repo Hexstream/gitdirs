@@ -1,3 +1,4 @@
+projects/websites/hexstream.dev/extra.hexstream.dev/.git
 projects/websites/hexstream.dev/non-free.hexstream.dev/.git
 projects/websites/hexstream.net/www.hexstream.net/.git
 projects/websites/hexstream.net/ponies.hexstream.net/.git

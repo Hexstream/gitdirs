@@ -14,4 +14,5 @@ projects/websites/hexstream.xyz/angele.hexstream.xyz/.git
 misc/gitdirs-secret/.git
 misc/security/.git
 misc/archive/.git
+misc/input/.git
 .git
